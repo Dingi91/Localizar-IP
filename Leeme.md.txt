@@ -1,0 +1,14 @@
+Scripting Argentina -- .
+By Dingi.
+▗▄▄ ▗▄▄      ▗▄ ▗▄▄▖ ▄▄ 
+ ▐  ▐ ▝▌    ▗▘ ▘▐   ▗▘▝▖
+ ▐  ▐▄▟▘    ▐ ▗▖▐▄▄▖▐  ▌
+ ▐  ▐    ▀▘ ▐  ▌▐   ▐  ▌
+▗▟▄ ▐        ▚▄▘▐▄▄▖ ▙▟ 
+➴
+¿Como utilizar la herramienta? 
+
+python3 ip-geo.py -h
+
+python3 ip-geo.py -t [TARGET (IP)]
+        
