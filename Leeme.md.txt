@@ -8,6 +8,8 @@ By Dingi.
 ➴
 ¿Como utilizar la herramienta? 
 
+cd Localizar-IP
+
 python3 ip-geo.py -h
 
 python3 ip-geo.py -t [TARGET (IP)]
